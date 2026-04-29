@@ -1,0 +1,13 @@
+from flask import Flask, jsonify
+
+app = Flask(__name__)
+
+@app.route('/data')
+def data():
+    return jsonify({
+        "device": "jetson-nano",
+        "status": "active",
+        "temperature": 42.5
+    })
+
+app.run(host='0.0.0.0', port=5000)
