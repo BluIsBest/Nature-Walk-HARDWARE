@@ -1,0 +1,20 @@
+{
+	"dataArr": [
+		{
+			"speciesId":"5435",
+			"speciesName": "Sudhanshu",
+			"detectedAt": "timestamp",
+			"longitude": "3554", 
+			"latitude": "4553"
+			
+		},
+		{
+			"speciesId":"5444535",
+			"speciesName": "Steve",
+			"detectedAt": "timestamp",
+			"longitude": "3554454", 
+			"latitude": "4553"
+			
+		}
+	]
+}

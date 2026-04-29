@@ -1,0 +1,6 @@
+PlantName = "Rose"
+PlantID = 1234
+GPS = (1.45678, 9.12345)
+Timestamp = 4.21.26, 11.45
+
+
